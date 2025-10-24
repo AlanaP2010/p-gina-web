@@ -1,4 +1,11 @@
 body{
-    background-color: blanchedalmond;
-    font-family :Oswald;
+    background-color: rgba(97, 185, 9, 0.808);
+    font-family:Oswald, cursive;
+}
+header{
+font-size:50px;
+text-align:center;
+} 
+.top1{
+    background-color: rgba(36, 128, 182, 0.836);
 }
