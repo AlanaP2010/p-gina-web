@@ -7,5 +7,8 @@ font-size:50px;
 text-align:center;
 } 
 .top1{
-    background-color: rgba(36, 128, 182, 0.836);
+    background-color: rgba(3, 127, 133, 0.836);
+    color:rgba(255, 234, 0, 0.894);
+    text-align:center;
+    padding:40px;
 }
